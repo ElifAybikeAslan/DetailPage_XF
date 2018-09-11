@@ -128,4 +128,19 @@
       <Name>DetailPage_XF</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\profileImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\anasayfa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ayarlar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bilekliktanim.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\profil.png" />
+  </ItemGroup>
 </Project>
